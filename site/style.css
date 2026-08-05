@@ -1,15 +1,15 @@
 @import url('https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600;700&family=Plus+Jakarta+Sans:wght@300;400;500;600;700&display=swap');
 
 :root {
-    --bg-dark: #090e1a;
-    --bg-card: rgba(17, 24, 39, 0.7);
-    --primary: #295b71;
-    --primary-light: #296c72;
-    --accent: #2dd4bf;
-    --accent-glow: rgba(45, 212, 191, 0.15);
-    --text-main: #f3f4f6;
-    --text-muted: #9ca3af;
-    --border: rgba(255, 255, 255, 0.08);
+    --bg-dark: #020617;
+    --bg-card: rgba(15, 23, 42, 0.6);
+    --primary: #0055ff;
+    --primary-light: #0088ff;
+    --accent: #00d2ff;
+    --accent-glow: rgba(0, 210, 255, 0.12);
+    --text-main: #f8fafc;
+    --text-muted: #94a3b8;
+    --border: rgba(255, 255, 255, 0.06);
     --font-heading: 'Outfit', sans-serif;
     --font-body: 'Plus Jakarta Sans', sans-serif;
     --transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
@@ -32,8 +32,8 @@ body {
     line-height: 1.6;
     overflow-x: hidden;
     background-image: 
-        radial-gradient(circle at 10% 20%, rgba(41, 91, 113, 0.15) 0%, transparent 40%),
-        radial-gradient(circle at 90% 80%, rgba(41, 108, 114, 0.15) 0%, transparent 40%);
+        radial-gradient(circle at 10% 20%, rgba(0, 85, 255, 0.12) 0%, transparent 45%),
+        radial-gradient(circle at 90% 80%, rgba(0, 210, 255, 0.12) 0%, transparent 45%);
     background-attachment: fixed;
 }
 
@@ -78,11 +78,17 @@ header {
 }
 
 .logo-img {
-    max-height: 42px;
+    max-height: 48px;
     width: auto;
     object-fit: contain;
     display: block;
-    filter: drop-shadow(0 2px 8px rgba(45, 212, 191, 0.15));
+    filter: drop-shadow(0 0 12px rgba(0, 210, 255, 0.35));
+    transition: var(--transition);
+}
+
+.logo-img:hover {
+    transform: scale(1.03);
+    filter: drop-shadow(0 0 16px rgba(0, 210, 255, 0.5));
 }
 
 nav ul {
@@ -390,7 +396,7 @@ section {
 .service-card:hover {
     transform: translateY(-5px);
     border-color: var(--accent);
-    box-shadow: 0 12px 30px rgba(45, 212, 191, 0.05);
+    box-shadow: 0 10px 30px -10px rgba(0, 210, 255, 0.35);
 }
 
 .service-icon {
@@ -689,4 +695,42 @@ footer {
         flex-direction: column;
         text-align: center;
     }
+}
+
+/* Flyer Section */
+.flyer-section {
+    padding: 7rem 2rem;
+    border-top: 1px solid var(--border);
+    background: rgba(15, 23, 42, 0.2);
+    text-align: center;
+}
+
+.flyer-wrapper {
+    max-width: 480px;
+    margin: 3rem auto 2rem auto;
+    border-radius: 20px;
+    overflow: hidden;
+    border: 1px solid var(--border);
+    box-shadow: 0 20px 45px rgba(0, 0, 0, 0.6);
+    transition: var(--transition);
+    background-color: #0b1329;
+}
+
+.flyer-wrapper:hover {
+    transform: translateY(-6px) scale(1.01);
+    border-color: var(--accent);
+    box-shadow: 0 15px 40px -5px rgba(0, 210, 255, 0.3);
+}
+
+.flyer-wrapper img {
+    width: 100%;
+    height: auto;
+    display: block;
+}
+
+.flyer-actions {
+    margin-top: 2rem;
+    display: flex;
+    justify-content: center;
+    gap: 1rem;
 }
