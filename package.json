@@ -11,7 +11,7 @@
     "url": "git+https://github.com/camargoarthur-hub/ServiDesk.git"
   },
   "keywords": [],
-  "type": "commonjs",
+  "type": "module",
   "bugs": {
     "url": "https://github.com/camargoarthur-hub/ServiDesk/issues"
   },
