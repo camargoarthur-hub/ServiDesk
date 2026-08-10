@@ -11,9 +11,12 @@ A ServiDesk atua como a **Retaguarda Tecnológica e Operacional Completa** de pe
 *   **Mensagem central**: "Seu negócio online e funcionando sem falhas. Cuidamos do seu suporte de TI, backup de dados, site institucional e identidade de marca."
 *   **Assinatura oficial**: "ServiDesk - TI e Suporte"
 *   **Contato Oficial**: +55 21 98386-0526
-*   **Diferenciais de Autoridade (Credenciais do Arthur Camargo)**:
-    *   **25+ Anos de Experiência**: Atuação em TI desde 2000.
-    *   **Projetos de Peso**: Desenvolvimento e coordenação de projetos de inclusão digital e redes para o **Exército Brasileiro (Fundação Trompowsky)**, **CDI-RJ** e cooperativas profissionais (**Comprove**).
+*   **Diferenciais de Autoridade (Credenciais do Arthur Camargo & Clientes ServiDesk)**:
+    *   **25+ Anos de Experiência**: Atuação em informática e suporte sênior desde 2000.
+    *   **Portfólio de Clientes de Relevância**:
+        *   *Órgãos & Instituições*: Fundação Trompowsky (Exército Brasileiro - sob coordenação do Cel. Antônio Guelfi), CDI (Comitê para Democratização da Informática), CBPF (Centro Brasileiro de Pesquisas Físicas - com o Prof. Dr. Ramiro de Porto Alegre Muniz), AAPBB (Associação de Aposentados e Pensionistas).
+        *   *Empresas & Franquias*: Rio Water Planet, Mr. Coffee, DZ Negócios com Energia, Langsoft, Condomínio Leblon Center.
+        *   *Escritórios & Serviços*: Comprove (Cooperativa de Serviços), Escritório Alberto Garcia, Maiza Santesso Contabilidade, Storino Contabilidade, Ricardo Machado Advocacia, RRConsultoria (Renato Redenschi).
     *   **Certificações Relevantes**: *AWS Cloud Fundamentals*, *Privacidade e Proteção de Dados (LGPD)*, *Técnico em Eletrônica*.
     *   **Pioneirismo em IA**: Formação especializada em Inteligência Artificial aplicada a negócios (Análise de Dados, OpenAI e Google).
 
@@ -60,7 +63,7 @@ Uso das credenciais de Professor de Informática e especialista certificado para
 ### Script 2: Abordagem LinkedIn (Uso de Credenciais e Autoridade)
 > "Prezado [Nome],
 > Acompanho sua atuação na área de [Área]. 
-> Atuo com a ServiDesk prestando suporte de TI e desenvolvendo websites institucionais. Coordenei projetos de tecnologia para instituições de peso como a **Fundação Trompowsky (Exército Brasileiro)**, **CDI-RJ** e cooperativas profissionais, além de possuir certificação **AWS Cloud** e especialização em **IA para Negócios**.
+> Atuo com a ServiDesk prestando suporte técnico de TI e desenvolvendo websites de alta conversão. Nossa trajetória conta com serviços prestados a grandes marcas e instituições como a **Fundação Trompowsky (Exército Brasileiro)**, **CDI-RJ**, **Rio Water Planet**, **Mr. Coffee** e cooperativas profissionais como a **Comprove**, além de possuirmos certificação **AWS Cloud** e especialização em **IA para Negócios**.
 > Se você planeja criar um site de alta conversão, desenhar sua logomarca ou precisa de uma retaguarda técnica de TI confiável (helpdesk e backups locais/nuvem) para seus computadores, estamos à disposição.
 > Se desejar avaliar uma proposta, podemos agendar um breve contato por WhatsApp no +55 21 98386-0526."
 
