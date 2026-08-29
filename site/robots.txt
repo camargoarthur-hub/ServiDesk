@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://arthurcamargo.vercel.app/sitemap.xml
+Sitemap: https://servidesk.vercel.app/sitemap.xml
